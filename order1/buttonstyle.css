@@ -1,0 +1,43 @@
+.homeb {
+    background-color: #4caf4f00; /* Green */
+    border: none;
+    color: rgb(0, 189, 31);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    display: block;
+    border-style: solid;
+
+  }
+
+
+
+  .productsb {
+    background-color: #4caf4f00; /* Green */
+    border: none;
+    color: rgb(224, 6, 6);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    display: block;
+    border-style: solid;
+  }
+
+
+
+  .infob {
+    background-color: #4caf4f00; /* Green */
+    border: 1px;
+    color: rgb(5, 1, 224);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    display: block;
+    border-style: solid;
+  }

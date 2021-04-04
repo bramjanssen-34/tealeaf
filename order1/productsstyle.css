@@ -1,0 +1,48 @@
+body {
+    background-color: #0a0a00;
+    color: #FFFFFF;
+    border-width: 1px;
+   }
+   h1 {
+    color: #ec0000;
+    text-align: center;
+    font: italic 100% fantasy;
+   }
+
+
+
+   .leaf 
+   {
+       position: absolute;
+       left: 130px;
+       bottom: 490px;
+       width: 150px;
+       height: 150px;
+   }
+
+
+   .leaf2
+   {
+       position: absolute;
+       right: 130px;
+       bottom: 490px;
+       width: 150px;
+       height: 150px;
+   }
+
+   .hometext {
+    color: #db0000;
+    font-size: 22px;
+
+}
+
+
+
+
+
+
+
+   
+
+
+
